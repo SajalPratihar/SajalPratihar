@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Dot .net core**
 - 👯 I’m looking to collaborate on **CBMS(IFMS, West Bengal)**
 - 💬 Ask me about **[<img src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" width="2.5%" align="center"/>](https://laravel.com), [<img src="https://www.chartjs.org/media/logo-title.svg" width="2.5%" align="center"/>](https://www.chartjs.org), [<img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="2.5%" align="center"/>](https://tailwindcss.com)**
-- 📫 How to reach me **bishutalai.nic@gmail.com**
+- 📫 How to reach me **pratiharsajal@gmail.com**
 - 😄 Pronouns: He / Him
 
   
