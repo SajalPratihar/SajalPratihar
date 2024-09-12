@@ -5,7 +5,7 @@
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 - 🔭 I’m currently working on [IFMS](https://www.wbifms.gov.in/)
-- 🌱 I’m currently learning **Dot .net core**
+- 🌱 I’m currently learning **Dot Net Core**
 - 👯 I’m looking to collaborate on **CBMS(IFMS, West Bengal)**
 - 💬 Ask me about **[<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="2.5%" align="center"/>](https://angular.dev/), [<img src="https://www.chartjs.org/media/logo-title.svg" width="2.5%" align="center"/>](https://www.chartjs.org), [<img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="2.5%" align="center"/>](https://tailwindcss.com)**
 - 📫 How to reach me **pratiharsajal@gmail.com**
